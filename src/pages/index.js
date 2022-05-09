@@ -33,8 +33,8 @@ class HomeIndex extends React.Component {
                         <h2>Recent Sharing</h2>
 
                         <ul className="actions">
-                            <li><Link to={`blog`} className="button">Все статьи</Link></li>
-                            <li><Link to={`subscribe`} className="button">Все новости</Link></li>
+                            <li><Link to={`blog`} className="button">Все статьи.</Link></li>
+                            <li><Link to={`subscribe`} className="button">Все новости.</Link></li>
                         </ul>
                     </section>
 
